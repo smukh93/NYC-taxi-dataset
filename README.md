@@ -1,4 +1,4 @@
-# NYC-taxi-tip-prediction
+# NYC-taxi-Dataset
 
 I use data collected by the New York City Taxi and Limousine commission about “Green” Taxis. Green Taxis (as opposed to yellow ones) are taxis that are not allowed to pick up passengers inside of the densely populated areas of Manhattan. I am using NYC Taxi and Limousine trip September 2015 record data from [NYC Taxi Trip Recod Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml). 
 
